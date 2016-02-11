@@ -1,6 +1,6 @@
 function logMyArray(name, ...params) {
   var paramsString = params.join(", ");
-  console.log(`Subscribing to ${name} with "${paramsStrin}"`);
+  console.log(`Logging ${name} with values "${paramsStrin}"`);
 }
 
 function printUls() {
